@@ -46,8 +46,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  
   </ol>
 </details>
 
@@ -130,26 +129,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@Kaustub22315199](https://twitter.com/Kaustub22315199) - kmishra2510@gmail.com
-
-Project Link: [https://github.com/Kaustubh251002/Drip-Monitor/](https://github.com/Kaustubh251002/Drip-Monitor/)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [Samanyu Okade](https://github.com/Samanyu-007)
-* [Bhavya Goel](https://github.com/bhavyagoel)
-* [Sai Sukesh](https://github.com/saisukesh04)
-
-
-<p align="center">
-	With :heart: by <a href="https://iet-vit.tech/" target="_blank">Team Fourth Dimension, IET-VIT</a>
-</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
